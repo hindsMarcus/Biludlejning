@@ -10,7 +10,6 @@ public class FleetOfCars {
     
     public void addCarToFleet(Car car) {
         fleetOfCars.add(car);
-        fleetOfCars.re
     }
 
     @Override
