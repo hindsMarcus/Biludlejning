@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af47d2f0-32af-4855-8f60-50e2c0c8fec1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Documentation/Class Diagram.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/ACar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/AFuelCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/DieselCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/FleetOfCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/GasolineCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFirm/MainFeature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/myFirm/FleetOfCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/myFirm/FleetOfCars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/myFirm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/myFirm/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myFirm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myFirm/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Feature" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -116,6 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

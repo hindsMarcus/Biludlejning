@@ -20,7 +20,13 @@ public class Main {
         fleetOfCars.addCarToFleet(mercedesEClass);
         fleetOfCars.addCarToFleet(mercedesCClass);
 
-        System.out.println(fleetOfCars);
-        System.out.println(fleetOfCars.getTotalRegistrationFeeForFleet());
+       // System.out.println(fleetOfCars);
+       // System.out.println(fleetOfCars.getTotalRegistrationFeeForFleet());
+
+        MainFeature mainFeature = new MainFeature();
+        NewFeature newFeature = new NewFeature();
+
+        System.out.println(mainFeature);
+        System.out.println(newFeature);
     }
 }
