@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af47d2f0-32af-4855-8f60-50e2c0c8fec1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Class Diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/ACar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/AFuelCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/DieselCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/FleetOfCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/GasolineCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myFirm/MainFeature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Feature" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -90,7 +102,6 @@
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -106,10 +117,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +131,6 @@
       <workItem from="1648030588941" duration="1459000" />
       <workItem from="1648047556186" duration="6615000" />
       <workItem from="1648114878102" duration="7063000" />
-      <workItem from="1648551994392" duration="1218000" />
     </task>
     <servers />
   </component>
@@ -141,5 +147,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing branches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing branches" />
   </component>
 </project>
